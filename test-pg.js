@@ -1,0 +1,1 @@
+const { Pool } = require('pg'); require('dotenv').config(); const pool = new Pool({ connectionString: process.env.DATABASE_URL, ssl: { rejectUnauthorized: false } }); pool.query('SELECT NOW()', (err, res) => { console.log(err ? 'Error: ' + err.message : 'Success: ' + res.rows[0].now); pool.end(); });
