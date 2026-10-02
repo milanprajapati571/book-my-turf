@@ -84,7 +84,7 @@ While BookMyTurf MVP is fully functional, here are some exciting features planne
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/YOUR_USERNAME/book-my-turf/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/milanprajapati571/book-my-turf/issues).
 
 ## 📄 License
 
