@@ -2,7 +2,8 @@
 
 **BookMyTurf** is a modern, full-stack turf booking and venue management platform. It allows venue owners to seamlessly list their sports turfs, and enables users to discover, book, and pay for slots securely.
 
-![BookMyTurf Dashboard preview placeholder]
+<img width="1886" height="858" alt="image" src="https://github.com/user-attachments/assets/04ffaec2-38c4-45fa-91c4-aa6767473fad" />
+
 
 ## 🌟 Features
 
